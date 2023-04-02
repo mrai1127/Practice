@@ -31,5 +31,6 @@ public class FirstOne {
 			System.out.println("Your letter grade is: " + grade);
 		}
 	}
+	//do not forget to add a comment in each method.
 
 }
